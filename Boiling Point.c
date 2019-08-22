@@ -26,6 +26,8 @@ void within_x_percent()
     else if(substance>=2660-(2660*.05) && substance<=2660+(2660*.05))
     printf("The substance is Gold\n");
 
+    #test 
+
     else
     printf("Substance is unknown\n");
 }
